@@ -1,0 +1,5 @@
+module.exports = {
+    "token": "",
+    "prefix": "mis+",
+    "activities": "github.com/theilqer",
+}
